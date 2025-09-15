@@ -21,7 +21,7 @@ Raspberry Pi, Python, InfluxDB, Grafana, Telegram Bot, CSV automation
 - 📉 Current Data: ![Current](media/courant.png)
 - 📉 Power Data: ![Power](media/power.png)
 - 🤖 Telegram Bot Alerts: ![Telegram](media/TelegramBot.png)
-- 🎥 [Demo Video – Telegram Bot](https://youtu.be/xxxx)
+- 🎥 [Demo Video – Telegram Bot](https://youtube.com/shorts/QXqnG4CJ7Vo?feature=share)
 
 ### Contributions
 - Implemented energy monitoring pipeline from sensor acquisition to database storage
